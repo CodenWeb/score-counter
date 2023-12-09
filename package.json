@@ -1,7 +1,7 @@
 {
   "name": "score_counter",
   "version": "0.1.0",
-  "homepage": "https://alizberlin.github.io/score-counter/",
+  "homepage": "https://codenweb.github.io/score-counter/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
